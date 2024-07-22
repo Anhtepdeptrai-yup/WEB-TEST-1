@@ -1,0 +1,21 @@
+/* Targets elements with class="container" */
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+  /* Targets element with id="header" */
+#header {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.div-list {
+    width: 500px;
+    height: 200px;
+
+    background-color: rgb(204, 249, 249);
+}
+

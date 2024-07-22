@@ -1,0 +1,30 @@
+h1{
+    font-family: "courier new", Times, serif;
+
+    text-shadow: 3px 3px 5px springgreen, -3px -3px 5px turquoise;
+
+}
+
+p{
+    font-family: "lucida console", "courier new";
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+  
+}
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+
+#box1{
+    background-color: rgb(255, 55, 0);
+    margin: -10px -50px -10px -10px;
+}
+
+#box2{
+    background-color: hsl(189, 100%, 55%);
+}
